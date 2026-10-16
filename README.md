@@ -1,4 +1,4 @@
-# 🥗 FruitFresh AI — Fruit Freshness Detection Using Transfer Learning
+# 🥗 FruitFresh AI - Fruit Freshness Detection Using Transfer Learning
 
 **An image classification application that predicts whether an apple, banana, or orange is fresh or rotten using deep learning and transfer learning.**
 
