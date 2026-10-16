@@ -4,7 +4,7 @@
 
 Built with **Python, TensorFlow/Keras, EfficientNetB0, and Streamlit**.
 
-[GitHub Repository](https://github.com/iabhishek765/fruit-freshness-detector) · [Dataset](https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification)
+[GitHub Repository](https://github.com/iabhishek765/fruit-freshness-detector) · [Dataset](https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification) · [Live Demo](https://fruit-freshness-detector-3whu.onrender.com)
 
 ---
 
