@@ -2,6 +2,11 @@
 import streamlit as st
 import pandas as pd
 from PIL import Image
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
 from src.predict import predict_fruit
 
 
