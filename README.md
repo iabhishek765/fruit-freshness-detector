@@ -228,6 +228,7 @@ These are potential extensions, not claims about features already implemented.
 
 - GitHub: [@iabhishek765](https://github.com/iabhishek765)
 - Project: [FruitFresh AI — Fruit Freshness Detector](https://github.com/iabhishek765/fruit-freshness-detector)
+- Live Demo: [FruitFresh AI](https://fruit-freshness-detector-3whu.onrender.com)
 
 ---
 
