@@ -91,6 +91,7 @@ These metrics reflect the model's performance on the current dataset's test spli
 
 The Streamlit application displays the uploaded fruit image, predicted class, model confidence, and scores for all six classes.
 
+![FruitFresh AI Dashboard](assets/dashboard.png)
 
 
 ## 🚀 Installation and Setup
