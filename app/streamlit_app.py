@@ -6,11 +6,11 @@ from src.predict import predict_fruit
 
 st.set_page_config(
     page_title="FruitFresh AI",
-    page_icon="🍎",
+    page_icon="🥗",
     layout="centered",
 )
 
-st.title("🍎 FruitFresh AI")
+st.title("🥗 FruitFresh AI")
 st.write("Upload an apple, banana, or orange image to predict its freshness.")
 
 uploaded_file = st.file_uploader(
